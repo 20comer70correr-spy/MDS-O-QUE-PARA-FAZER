@@ -164,3 +164,8 @@ menu-acessibilidade{
 .apresenta-lista{
     display: none;
 }
+
+
+.botao-inicio{
+    background-color: aqua;
+}
