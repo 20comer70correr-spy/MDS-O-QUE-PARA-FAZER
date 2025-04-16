@@ -107,7 +107,8 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/MDS.png') bottom right no-repeat;
+    background: url('img/MDS.png') bottom right no-repeat,
+        url('img/bonito-grao-café.png')
     background-size: 200px 190px;
 }
 
